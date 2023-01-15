@@ -67,3 +67,15 @@ header h1 {
   height: 50px;
   width: 50px;
 }
+
+.changeALL {
+  display: grid;
+  margin: auto; 
+  margin-bottom: 25px;
+}
+
+.resetALL {
+  display: grid;
+  margin: auto; 
+  margin-bottom: 25px;
+}
